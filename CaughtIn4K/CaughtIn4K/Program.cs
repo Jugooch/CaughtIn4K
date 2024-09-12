@@ -18,7 +18,7 @@ class Program
         _client = services.GetRequiredService<DiscordSocketClient>();
         _client.Log += Log;
 
-        string token = "MTI3ODA2Njc4NjI0MzMxMzc0OA.Gmjoe-.dTNOgA-66j_NlEyfOdvU8u1uPBTzGpLjJ4b86c";
+        string token = Environment.GetEnvironmentVariable("4K_BOT_TOKEN"); ;
         await _client.LoginAsync(TokenType.Bot, token);
         await _client.StartAsync();
 
