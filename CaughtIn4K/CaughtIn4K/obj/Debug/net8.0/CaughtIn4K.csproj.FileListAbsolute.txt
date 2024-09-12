@@ -1,0 +1,88 @@
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\CaughtIn4K.exe
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\CaughtIn4K.deps.json
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\CaughtIn4K.runtimeconfig.json
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\CaughtIn4K.dll
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\CaughtIn4K.pdb
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Discord.Net.Commands.dll
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Discord.Net.Core.dll
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Discord.Net.Interactions.dll
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Discord.Net.Rest.dll
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Discord.Net.Webhook.dll
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Discord.Net.WebSocket.dll
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\System.Interactive.Async.dll
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\System.Linq.Async.dll
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.csproj.AssemblyReference.cache
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.AssemblyInfoInputs.cache
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.AssemblyInfo.cs
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.csproj.CoreCompileInputs.cache
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.csproj.Up2Date
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.dll
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\refint\CaughtIn4K.dll
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.pdb
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.genruntimeconfig.cache
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\ref\CaughtIn4K.dll
+C:\Users\GOOCHJUS\Projects\CaughtIn4k\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\CaughtIn4K.exe
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\CaughtIn4K.deps.json
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\CaughtIn4K.runtimeconfig.json
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\CaughtIn4K.dll
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\CaughtIn4K.pdb
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Discord.Net.Commands.dll
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Discord.Net.Core.dll
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Discord.Net.Interactions.dll
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Discord.Net.Rest.dll
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Discord.Net.Webhook.dll
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Discord.Net.WebSocket.dll
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\System.Interactive.Async.dll
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\System.Linq.Async.dll
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.csproj.AssemblyReference.cache
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.AssemblyInfoInputs.cache
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.AssemblyInfo.cs
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.csproj.CoreCompileInputs.cache
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.csproj.Up2Date
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.dll
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\refint\CaughtIn4K.dll
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.pdb
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.genruntimeconfig.cache
+C:\Users\Justice\Cloned Apps\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\ref\CaughtIn4K.dll
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\CaughtIn4K.exe
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\CaughtIn4K.deps.json
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\CaughtIn4K.runtimeconfig.json
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\CaughtIn4K.dll
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\CaughtIn4K.pdb
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Discord.Net.Commands.dll
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Discord.Net.Core.dll
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Discord.Net.Interactions.dll
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Discord.Net.Rest.dll
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Discord.Net.Webhook.dll
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Discord.Net.WebSocket.dll
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\System.Interactive.Async.dll
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\System.Linq.Async.dll
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.csproj.AssemblyReference.cache
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.AssemblyInfoInputs.cache
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.AssemblyInfo.cs
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.csproj.CoreCompileInputs.cache
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.sourcelink.json
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.csproj.Up2Date
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.dll
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\refint\CaughtIn4K.dll
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.pdb
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\CaughtIn4K.genruntimeconfig.cache
+C:\Users\GOOCHJUS\Cloned\CaughtIn4K\CaughtIn4K\CaughtIn4K\obj\Debug\net8.0\ref\CaughtIn4K.dll
