@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\GOOCHJUS\\Cloned\\CaughtIn4K\\CaughtIn4K\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F767FA6-E143-4E0B-99BA-B8E5675779FC}|CaughtIn4K\\CaughtIn4K.csproj|c:\\users\\goochjus\\cloned\\caughtin4k\\caughtin4k\\caughtin4k\\token.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8F767FA6-E143-4E0B-99BA-B8E5675779FC}|CaughtIn4K\\CaughtIn4K.csproj|solutionrelative:caughtin4k\\token.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F767FA6-E143-4E0B-99BA-B8E5675779FC}|CaughtIn4K\\CaughtIn4K.csproj|c:\\users\\goochjus\\cloned\\caughtin4k\\caughtin4k\\caughtin4k\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F767FA6-E143-4E0B-99BA-B8E5675779FC}|CaughtIn4K\\CaughtIn4K.csproj|solutionrelative:caughtin4k\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "token.txt",
-              "DocumentMoniker": "C:\\Users\\GOOCHJUS\\Cloned\\CaughtIn4K\\CaughtIn4K\\CaughtIn4K\\token.txt",
-              "RelativeDocumentMoniker": "CaughtIn4K\\token.txt",
-              "ToolTip": "C:\\Users\\GOOCHJUS\\Cloned\\CaughtIn4K\\CaughtIn4K\\CaughtIn4K\\token.txt",
-              "RelativeToolTip": "CaughtIn4K\\token.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-09-12T16:13:18.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AudioBuffer.cs",
               "DocumentMoniker": "C:\\Users\\GOOCHJUS\\Cloned\\CaughtIn4K\\CaughtIn4K\\CaughtIn4K\\AudioBuffer.cs",
               "RelativeDocumentMoniker": "CaughtIn4K\\AudioBuffer.cs",
@@ -71,11 +54,12 @@
               "RelativeToolTip": "CaughtIn4K\\AudioBuffer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T18:38:44.022Z"
+              "WhenOpened": "2024-08-27T18:38:44.022Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "RequireAdmin.cs",
               "DocumentMoniker": "C:\\Users\\GOOCHJUS\\Cloned\\CaughtIn4K\\CaughtIn4K\\CaughtIn4K\\RequireAdmin.cs",
               "RelativeDocumentMoniker": "CaughtIn4K\\RequireAdmin.cs",
@@ -87,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "AudioCommandModule.cs",
               "DocumentMoniker": "C:\\Users\\GOOCHJUS\\Cloned\\CaughtIn4K\\CaughtIn4K\\CaughtIn4K\\AudioCommandModule.cs",
               "RelativeDocumentMoniker": "CaughtIn4K\\AudioCommandModule.cs",
@@ -99,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "AudioService.cs",
               "DocumentMoniker": "C:\\Users\\GOOCHJUS\\Cloned\\CaughtIn4K\\CaughtIn4K\\CaughtIn4K\\AudioService.cs",
               "RelativeDocumentMoniker": "CaughtIn4K\\AudioService.cs",
@@ -111,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\GOOCHJUS\\Cloned\\CaughtIn4K\\CaughtIn4K\\CaughtIn4K\\CommandHandler.cs",
               "RelativeDocumentMoniker": "CaughtIn4K\\CommandHandler.cs",
@@ -123,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\GOOCHJUS\\Cloned\\CaughtIn4K\\CaughtIn4K\\CaughtIn4K\\Program.cs",
               "RelativeDocumentMoniker": "CaughtIn4K\\Program.cs",
@@ -131,8 +115,7 @@
               "RelativeToolTip": "CaughtIn4K\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T18:27:23.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T18:27:23.948Z"
             }
           ]
         }
